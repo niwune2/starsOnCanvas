@@ -1,0 +1,21 @@
+* {
+    background-color: rgb(20, 20, 20);
+}
+
+body {
+    background-color: rgb(27, 27, 27);
+}
+
+div {
+    width: 1000px;
+    margin: 0 auto;
+}
+
+canvas {
+    background-color: rgba(20, 20, 20, 1);
+    border: 1px solid #000;
+}
+
+ul {
+    color: rgb(150,150,150)
+}
